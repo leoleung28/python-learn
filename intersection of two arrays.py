@@ -18,3 +18,4 @@ for i in dic:
 print (ans)
 
 # example : dic ={3: [2, 0], 1: [2, 2], 5: [1, 1], 7: [1, 0]}
+# 
